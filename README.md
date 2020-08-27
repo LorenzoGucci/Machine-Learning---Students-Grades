@@ -3,3 +3,5 @@ A study of the correlation between students' final grade and other factors such 
 
 This exercise is based on the public dataset that can be found at this website:
 https://archive.ics.uci.edu/ml/datasets/Student+Performance
+
+For convenience, I have already included the dataset in this repository.
